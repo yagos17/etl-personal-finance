@@ -1,4 +1,4 @@
-# 💸 Personal Finance ETL com Python, MySQL e Dashboard BI
+# 📊 Personal Finance ETL com Python, MySQL e Dashboard BI
 
 Projeto completo de ETL para automatizar o controle de finanças pessoais, integrando planilhas Excel, banco de dados MySQL e visualizações em dashboard. O objetivo é transformar dados brutos de transações em insights claros sobre receitas, despesas e saldo acumulado.
 
